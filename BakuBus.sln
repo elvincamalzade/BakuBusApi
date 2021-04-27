@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakuBus", "BakuBus\BakuBus.csproj", "{6A172CE0-3C6E-4DC6-884E-5F9BD36274CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A172CE0-3C6E-4DC6-884E-5F9BD36274CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A172CE0-3C6E-4DC6-884E-5F9BD36274CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A172CE0-3C6E-4DC6-884E-5F9BD36274CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A172CE0-3C6E-4DC6-884E-5F9BD36274CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCECF061-DB34-4D73-BD93-47CC00FF1E4C}
+	EndGlobalSection
+EndGlobal
